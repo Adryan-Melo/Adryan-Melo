@@ -40,6 +40,8 @@ Gosto de desenvolver atividades em equipe.</h3>
 
 ###
 
+###
+
 
 <div align="center">
   <h3 align="center">Baixar CV</h3>
