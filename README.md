@@ -1,15 +1,22 @@
-<h1 align="center">Olá, meu nome é Adryan Melo</h1>
+<h1 align="center">Meu nome é Adryan Melo!</h1>
 
 ###
 
 
-<h3 align="left">Sou apaixonado por tecnologia, tenho ótima capacidade de comunicação e bons conhecimentos em Desenvolvimento Web. Me aprimorando em Back-end com a linguagem de programação Python.
+<h3 align="left">Sou apaixonado por tecnologia, tenho ótima capacidade de comunicação e bons conhecimentos em Desenvolvimento Web. Me aprimorando em Back-end com a linguagem de programação Python. 
+<br>
 Capaz de auxiliar na rotina diária e oferecer um serviço de qualidade, buscando soluções aos problemas apresentados.
 Gosto de desenvolver atividades em equipe.</h3>
 
 ###
 
-<h5 align="left">🎓 Formado em Analise e Desenvolvimento de Sistemas UNIP<br>🎮 Curiosidade: Gosto de videogames e esportes.</h5>
+<h4 align="left">
+  💻Cursando Desenvolvento Full Stack Python na EBAC.
+<br>
+  🎓 Formado em Analise e Desenvolvimento de Sistemas na UNIP.
+<br>
+  🎮 Curiosidade: Gosto de videogames e esportes.
+</h4>
 
 ###
 
@@ -38,7 +45,7 @@ Gosto de desenvolver atividades em equipe.</h3>
 
 ###
 
-<div align="left">
+<div align="left" display="flex">
   <h3 align="left">Acesse meu CV:</h3>
   <a href="https://github.com/Adryan-Melo/Adryan-Melo/blob/main/CV%20Adryan%20Melo.docx" target="_blank">
     <img src="https://github.com/Adryan-Melo/Icons/blob/main/Download.png" height="40" alt="Donwload logo"  />
