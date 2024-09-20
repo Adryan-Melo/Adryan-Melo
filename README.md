@@ -45,7 +45,7 @@ Gosto de desenvolver atividades em equipe.</h3>
 
 ###
 
-<div display="flex">
+<div align="left">
   <h3 align="left">Baixar CV</h3>
   <a href="https://github.com/Adryan-Melo/Adryan-Melo/raw/refs/heads/main/CV%20Adryan%20Melo.docx" target="_blank">
     <img src="https://github.com/Adryan-Melo/Icons/blob/main/Download.png" height="40" alt="Donwload logo"  />
