@@ -4,10 +4,15 @@ Gosto de desenvolver atividades em equipe.
 
 Tecnologias de Desenvolvimento 🚀
 
+
 React / Vite / Vue.js: Frameworks e ferramentas para criar aplicações web dinâmicas e eficientes.
+
 JavaScript / TypeScript: Linguagens de programação para desenvolvimento front-end e back-end.
+
 Bootstrap / Styled Components: Bibliotecas para estilização e design responsivo.
+
 Node.js / npm: Plataforma e gerenciador de pacotes para desenvolvimento de aplicações backend e front-end.
+
 
 Controle de Versionamento 📂
 
